@@ -30,3 +30,13 @@
 53 = ;
 54 = :
 utf8 = String ke Number e Rupantar kivabe Korbo ? utf8 (group-1), Unicode(group-2), utf16 (grouf-3)
+
+0 = bit
+1 = bit 
+1, 0 = 2 bit
+
+8 bit = 1 byte
+8 bit > 0 - 255
+bit = circuit
+
+
